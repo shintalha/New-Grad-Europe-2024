@@ -11,7 +11,7 @@ This is a collection of full-time job openings for new grads in 2024 in the fiel
 The icons next to roles in the table below signify the following:
 
 - ✅: Available / Open.
-- 🔒: No Longer Available / Closed.
+- 🔒: No Longer Available / Closed / Not Open Yet.
 
 ## Jobs
 
